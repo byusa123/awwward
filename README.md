@@ -17,31 +17,6 @@
 * View my profile page
 
 
-***
-
-## Setup/Installation Requirements
-To get the code..
-Cloning the repository:
- 
-  
-Move to the folder and install requirements
-  ```bash
-  cd Awwwards
-  pip install -r requirements.txt
-  ```
-Setup Configurations and  Database
-  ```bash 
-  python3 manage.py makemigrations awwwards 
-  ``` 
-Running the application
-  ```bash
-  python3 manage.py runserver
-  ```
-  
-Testing the application
-  ```bash
-  python3 manage.py test
-  ```
 
 ---
 
